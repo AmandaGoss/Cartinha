@@ -1,0 +1,22 @@
+.textinhofeliz{
+    text-align: center;
+}
+.margens{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.textinho2{
+  text-align: left;
+}
+.textinho3{
+  text-align: justify;
+}
+#mensagem{
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  margin-left: 2vh;
+  margin-right: 2vh;
+}
+#localdata{
+  margin-bottom: 7vh;
+}
